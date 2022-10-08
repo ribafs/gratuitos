@@ -112,10 +112,6 @@ Muitos recursos gratuitos para TI e outros
 - Wordpress - 23 - https://www.youtube.com/watch?v=kaRrI2rQAxA&list=PLXik_5Br-zO-RF-Vkj0NXtcvQukCP5xPc
 - Como criar videogames - 82 - https://www.youtube.com/watch?v=Tw2zsRhItXA&list=PLXik_5Br-zO-oJvHLxSkC3Vd4En0KGADt
 
-## Aulas particulares
-
-- https://www.superprof.com.br/
-
 ## Vagas
 
 - https://github.com/backend-br/vagas
