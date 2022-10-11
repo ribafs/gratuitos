@@ -137,6 +137,40 @@ Muitos recursos gratuitos para TI e outros
 - https://github.com/ribafs/react-live
 - VSCode - https://code.visualstudio.com/
 - Gimp - https://www.gimp.org/
+- https://github.com/search
+- https://www.postman.com/downloads/ (API)
+- https://insomnia.rest/download (API)
+- https://github.com/mapeditor/tiled/releases (Editor de tiles)
+- https://giscus.app/ - Sistema de comentários para Github pages
+- APIs para treinar front-end - https://www.infnet.edu.br/rj/api-desenvolvimento-infnet/
+- GitHub Profile README Generator - https://rahuldkjain.github.io/gh-profile-readme-generator/
+- https://online-audio-converter.com/pt/
+- https://jsonplaceholder.typicode.com/users
+- https://miro.com/pt/ferramenta-brainstorm-online/
+- https://themewagon.com/ - Free e premiun responsive tempaltes bootstrap
+- https://www.toptal.com/developers/gitignore
+- https://www.canva.com/
+- https://www.figma.com/
+- https://www.yworks.com/yed-live/
+- https://cloudinary.com/ - Upload de imagens e vídeos
+- https://www.supergrubdisk.org/wizard-step-download-super-grub2-disk/ - Recuperar grub no linux
+- https://gparted.org/ (GErenciamento de partições linux, windows, etc, inclusive redimensiona)
+- https://www.onworks.net/pt/index.php - Rodar vários Sistemas Operacionais online
+- https://www.geogebra.org/classic?lang=pt_PT
+- https://w3techs.com/technologies/overview/programming_language (Market Share)
+- https://regex101.com/
+- https://www.toptal.com/developers/gitignore
+- https://qr.io/ - Gerador de QRCode
+- http://www.htaccesscheck.com/
+- https://dillinger.io/ - Editor de markdown online
+- https://pandao.github.io/editor.md/en.html - Editor de markdown online
+- https://goo.gl/ - Encurtador de URL
+- https://www.minifier.org/ - Minificador de JS e CSS
+- https://www.cdnplanet.com/tools/cdnfinder/
+- https://ace.c9.io/build/kitchen-sink.html - Editor online
+- https://www.adminer.org/ - Gerenciador com suporte a vários SGBDs
+- https://webmaker.app/app/
+- https://docs.emmet.io/cheat-sheet/ - Tool for VSCode
 
 ## Hospedagem
 
@@ -184,10 +218,22 @@ Muitos recursos gratuitos para TI e outros
 - https://www.freeprojectz.com/projects/php-project-ideas
 - https://github.com/sindresorhus/awesome
 
-## Banco de dados de imagens
+## Banco de imagens e áudio
 
 - https://pixabay.com/photos/
 - https://pixabay.com/images/search/background/
+- https://pixabay.com/pt/
+- https://www.pexels.com/pt-br/procurar/tecnologia%20da%20informa%C3%A7%C3%A3o/
+- https://pixabay.com/images/search/background/
+- https://freesound.org/
+- https://www.freesfx.co.uk/Default.aspx
+- https://www.free-stock-music.com/
+- https://www.1001freefonts.com/
+- https://colorhunt.co/ (Color Palette)
+- https://www.favicon-generator.org/
+- https://editor.pho.to/pt/edit/ - Foto editor free online
+- https://ezgif.com/maker - Criador de gif animado
+- https://icons8.com.br/
 
 ## Disco virtual
 
