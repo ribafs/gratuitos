@@ -86,6 +86,7 @@ Muitos recursos gratuitos para TI e outros
 - https://github.com/ribafs/curso-ajax-jquery-codigomentor
 - https://github.com/ribafs/curso-ajax-sys4soft
 - https://github.com/ribafs/curso-react-dicasparadevs
+- https://github.com/ribafs/curso-react
 
 - https://github.com/ribafs/curso-sql-horadecodar
 - https://github.com/ribafs/acervo-nodejs-exemplos
