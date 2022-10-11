@@ -87,6 +87,13 @@ Muitos recursos gratuitos para TI e outros
 - https://github.com/ribafs/curso-ajax-sys4soft
 - https://github.com/ribafs/curso-react-dicasparadevs
 - https://github.com/ribafs/curso-react
+- https://github.com/ribafs/curso-docker
+- https://github.com/ribafs/curso-git
+- https://github.com/ribafs/curso-typescript
+- https://github.com/ribafs/curso-nextjs-yt
+- https://github.com/ribafs/curso-mongodb
+- https://github.com/ribafs/curso-nodejs
+- https://github.com/ribafs/curso-bootstrap5
 
 - https://github.com/ribafs/curso-sql-horadecodar
 - https://github.com/ribafs/acervo-nodejs-exemplos
