@@ -25,7 +25,7 @@ Muitos recursos gratuitos para TI e outros
 - https://www.pdfdrive.com/programming-books.html
 - https://github.com/wilsonfreitas/online-books
 
-## Cursos e similares
+## Cursos
 
 - https://www.primecursos.com.br/programacao/ - Com certificado
 - https://www.tecmundo.com.br/produto/240245-conheca-unova-plataforma-cursos-online-gratuitos.htm - Idiomas
@@ -55,6 +55,8 @@ Muitos recursos gratuitos para TI e outros
 - https://www.ev.org.br/cursos#cursos
 - https://www.dio.me/
 - https://portalidea.com.br/curso-gratuito-php
+
+## Arquivos/Exercícios de Cursos
 
 - https://github.com/ribafs/curso-javascript-ninja
 - https://github.com/ribafs/curso-de-javascript-e-typescript-do-basico-ao-avancado
