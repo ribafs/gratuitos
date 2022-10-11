@@ -132,6 +132,7 @@ Muitos recursos gratuitos para TI e outros
 
 ## Ferramentas
 
+- Github Desktop for Linux - https://github.com/shiftkey/desktop/releases
 - https://github.com/lukehaas/RunJS/releases
 - https://github.com/ribafs/react-live
 - VSCode - https://code.visualstudio.com/
