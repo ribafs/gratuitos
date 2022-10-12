@@ -1,6 +1,6 @@
-# Recursos gratuitos
+# Bons Recursos gratuitos
 
-Muitos recursos gratuitos para TI e outros
+Muitos recursos gratuitos para TI que tenho selecionado por algum tempo
 
 - Livros
 - Cursos
