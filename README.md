@@ -179,7 +179,7 @@ Muitos recursos gratuitos para TI que tenho selecionado por algum tempo
 - https://ribafs.github.io/ferramentas/hosting-free/
 - https://github.com/ribafs/hospedagem-gratis
 
-### Sites
+### Blogs
 
 - https://wordpress.com/pt-br/
 
