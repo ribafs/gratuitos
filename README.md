@@ -133,6 +133,8 @@ Muitos recursos gratuitos para TI que tenho selecionado por algum tempo
 ## Ferramentas
 
 - Github Desktop for Linux - https://github.com/shiftkey/desktop/releases
+- Postman API - https://www.postman.com/
+- Insomnia API - https://insomnia.rest/download
 - https://github.com/lukehaas/RunJS/releases
 - https://github.com/ribafs/react-live
 - VSCode - https://code.visualstudio.com/
