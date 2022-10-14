@@ -255,6 +255,13 @@ Muitos recursos gratuitos para TI que tenho selecionado por algum tempo
 - https://www.uespi.br/site/wp-content/uploads/2021/04/Servi%C3%A7os-p%C3%BAblicos-Conhe%C3%A7a-os-servi%C3%A7os-p%C3%BAblicos-e-como-se-classificam.pdf
 - http://www.comunidade.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=8
 
-## Última atualização
+## Atualização
 
-08/10/2022
+Para uma relação mais atualizada, verifique meus repositórios. Exemplo, para procurar 'curso' no meu Github acesse:
+
+https://github.com/ribafs?tab=repositories&q=curso
+
+Ou apenas mude de curso para outro assunto
+
+
+
